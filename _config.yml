@@ -23,7 +23,7 @@ email: samantha.jane.macd@gmail.com
 description: "A novice data science blog." 
 baseurl: "" # the name of the repository 
 url: "https://samanthamacd.github.io" #  change this to "https://<your-github-username>.github.io"
-image: "/assets/image/banner.png" 
+image: "/assets/images/banner.png" 
 author: Samantha MacDonald 
 copyright: SJM # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description: 'The default image for the site header is a random image from 
